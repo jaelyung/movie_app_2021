@@ -9,29 +9,36 @@ function Food({ name, picture }){
 
 const foodILike = [
   {
+    id:1,
     name: "Kimchi",
     image: "something"
   },
   {
+    id:2,
     name: "Mandu",
     image: "something"
   },
   {
+    id:3,
     name: "Salad",
     image: "something"
   },
   {
+    id:4,
     name: "Sandwich",
     image: "something"
   }
 ];
 
+function renderFood(dish){
+  console.log(dish)
+  return <Food key={dish.id} name={dish.name} picture={dish.image} />
+}
+
 function App() {
   return (
     <div>
-    {foodILike.map(function(dish) {
-      return <Food name = {dish.name} picture = {dish.image}/>;
-    })}
+    {foodILike.map(renderFood)}
     </div>
   );
 }
