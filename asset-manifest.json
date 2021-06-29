@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jaelyung.github.io/movie_app_2021/static/css/main.f671b066.chunk.css",
+    "main.js": "/jaelyung.github.io/movie_app_2021/static/js/main.2406e1e8.chunk.js",
+    "main.js.map": "/jaelyung.github.io/movie_app_2021/static/js/main.2406e1e8.chunk.js.map",
+    "runtime-main.js": "/jaelyung.github.io/movie_app_2021/static/js/runtime-main.aed8bf50.js",
+    "runtime-main.js.map": "/jaelyung.github.io/movie_app_2021/static/js/runtime-main.aed8bf50.js.map",
+    "static/js/2.6ce27cae.chunk.js": "/jaelyung.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js",
+    "static/js/2.6ce27cae.chunk.js.map": "/jaelyung.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.map",
+    "index.html": "/jaelyung.github.io/movie_app_2021/index.html",
+    "static/css/main.f671b066.chunk.css.map": "/jaelyung.github.io/movie_app_2021/static/css/main.f671b066.chunk.css.map",
+    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "/jaelyung.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed8bf50.js",
+    "static/js/2.6ce27cae.chunk.js",
+    "static/css/main.f671b066.chunk.css",
+    "static/js/main.2406e1e8.chunk.js"
+  ]
+}
